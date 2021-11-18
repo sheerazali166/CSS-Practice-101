@@ -1,0 +1,24 @@
+#ramsha {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 15px royalblue;
+  float: left;
+  text-align: justify;
+}
+#kinza {
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 2px 15px royalblue;
+  justify-content: left;
+  margin-left: 400px;
+  text-align: justify;
+}
+#rabia {
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  box-shadow: 2px 2px 15px royalblue;
+  float: right;
+  text-align: justify;
+}
